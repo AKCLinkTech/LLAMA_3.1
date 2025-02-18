@@ -1,0 +1,2 @@
+upgrade transformers
+transformers huggingface_hub
